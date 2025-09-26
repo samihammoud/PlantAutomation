@@ -9,7 +9,7 @@ Algorithm Explained
 newWaterAmount = (((temperature - baseline_temp) / threshold_temp) * threshold_bonus )
 
 Baseline Temp of a Zone: When no water bonus buffs need to be applied
-Threshold Temp: The temperature change per threshold bonus (Every 10 degrees above baseline, bonus is applied) In this case, would be 70
+Threshold Temp: The temperature change per threshold bonus (Every 10 degrees above baseline, bonus is applied)
 Threshold Bonus: The amount of water added per Threshold Temp change (Every _ above baseline, 5L water is added)
 
 
