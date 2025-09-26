@@ -14,6 +14,7 @@ zones = pd.read_csv("./zone.csv")
 today_rows = df[df["Day"] == curr_day].copy()
 print(today_rows)
 
+#if they don't have structured csv files in this way,  agent could take their format and structure it for our script
 #algo explained in readme
 def computeZoneWaterBuff(paramZone):
     thisZone = zones.loc[zones["Zone"] == paramZone]
