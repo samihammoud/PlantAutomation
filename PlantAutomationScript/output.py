@@ -17,7 +17,7 @@ print(today_rows)
 #algo explained in readme
 def computeZoneWaterBuff(paramZone):
     thisZone = zones.loc[zones["Zone"] == paramZone]
-    #one match per zone, iloc[0] safe, weird bullshit series conflict 
+    #one match per zone, iloc[0] safe, weird series conflict 
     row = thisZone.iloc[0]
     baseline_temp   = float(row["BaselineTemp"])
     threshold_temp  = float(row["ThresholdTemp"])
