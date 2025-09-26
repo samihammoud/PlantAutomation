@@ -13,14 +13,14 @@ Threshold Temp: The temperature change per threshold bonus (Every 10 degrees abo
 Threshold Bonus: The amount of water added per Threshold Temp change (Every _ above baseline, 5L water is added)
 
 
-Example: Fri,Cal,Peace Lily,upstairs,0.55
-Current Temperature is 90 degrees
+Example: Fri,Cal,Peace Lily,upstairs,0.55|
+Current Temperature is 90 degrees|
 
-Baseline temperature of upstairs zone is 60 degrees
-Threshold Temperature: 10 Degrees
-Bonus: 5L 
+Baseline temperature of upstairs zone is 60 degrees|
+Threshold Temperature: 10 Degrees|
+Bonus: 5L |
 
-90(current temperature) - 60(baseline temperature) = 30. 
-30 / 10(threshold_temp) = 3
-3 * 5L(Bonus) = 15
-new waterAmount = 15 + oldWaterAmount
+90(current temperature) - 60(baseline temperature) = 30|
+30 / 10(threshold_temp) = 3|
+3 * 5L(Bonus) = 15|
+new waterAmount = 15 + oldWaterAmount|
