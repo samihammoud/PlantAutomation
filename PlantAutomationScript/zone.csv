@@ -1,0 +1,5 @@
+Zone,BaselineTemp,ThresholdTemp,ThresholdBonus
+downstairs, 70,10,5
+upstairs,60,10,5
+backyard,50,5,10
+side_patio,60,5,5

@@ -1,0 +1,29 @@
+Day,Worker,Plant,Zone,WateringAmount_L
+Mon,Ash,Fiddle Leaf Fig,upstairs,0.60
+Mon,Bo,Snake Plant,downstairs,0.20
+Mon,Cal,Peace Lily,upstairs,0.50
+Mon,Dia,Spider Plant,side_patio,0.35
+Tue,Ash,Monstera,downstairs,0.70
+Tue,Bo,Pothos,upstairs,0.40
+Tue,Cal,ZZ Plant,backyard,0.30
+Tue,Dia,Boston Fern,upstairs,0.60
+Wed,Ash,Fiddle Leaf Fig,upstairs,0.60
+Wed,Bo,Snake Plant,side_patio,0.25
+Wed,Cal,Peace Lily,downstairs,0.45
+Wed,Dia,Spider Plant,backyard,0.30
+Thu,Ash,Monstera,upstairs,0.80
+Thu,Bo,Pothos,downstairs,0.35
+Thu,Cal,ZZ Plant,side_patio,0.25
+Thu,Dia,Boston Fern,upstairs,0.55
+Fri,Ash,Fiddle Leaf Fig,downstairs,0.50
+Fri,Bo,Snake Plant,backyard,0.20
+Fri,Cal,Peace Lily,upstairs,0.55
+Fri,Dia,Spider Plant,downstairs,0.30
+Sat,Ash,Monstera,backyard,0.75
+Sat,Bo,Pothos,upstairs,0.45
+Sat,Cal,ZZ Plant,downstairs,0.25
+Sat,Dia,Boston Fern,side_patio,0.40
+Sun,Ash,Fiddle Leaf Fig,side_patio,0.55
+Sun,Bo,Snake Plant,upstairs,0.25
+Sun,Cal,Peace Lily,backyard,0.50
+Sun,Dia,Spider Plant,upstairs,0.40
